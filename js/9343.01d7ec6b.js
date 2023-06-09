@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunksalsavica"]=self["webpackChunksalsavica"]||[]).push([[9343],{9343:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});var n=a(3673);function r(e,s,a,r,t,o){const c=(0,n.up)("form-jenis-produk");return(0,n.wg)(),(0,n.j4)(c,{editMode:!1,title:"Tambah"})}var t=a(368);const o={components:{formJenisProduk:t.Z}};o.render=r;const c=o}}]);

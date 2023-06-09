@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunksalsavica"]=self["webpackChunksalsavica"]||[]).push([[5078],{5078:(e,s,n)=>{n.r(s),n.d(s,{default:()=>c});var t=n(3673);function r(e,s,n,r,a,o){const c=(0,t.up)("form-jenis-produk");return(0,t.wg)(),(0,t.j4)(c,{editMode:!0,title:"Edit"})}var a=n(368);const o={components:{formJenisProduk:a.Z}};o.render=r;const c=o}}]);

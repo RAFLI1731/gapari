@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunksalsavica"]=self["webpackChunksalsavica"]||[]).push([[648],{648:(e,t,r)=>{r.r(t),r.d(t,{default:()=>c});var a=r(3673);function o(e,t,r,o,s,n){const c=(0,a.up)("form-kategori-produk");return(0,a.wg)(),(0,a.j4)(c,{editMode:!0,title:"Edit"})}var s=r(9381);const n={components:{formKategoriProduk:s.Z}};n.render=o;const c=n}}]);
